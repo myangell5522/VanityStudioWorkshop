@@ -1,0 +1,16 @@
+{
+ "id": "c20ff2e227d04316af780b153b52b36f",
+ "name": "Test Upload",
+ "description": "Nothing ?",
+ "kind": "Wearable",
+ "slot": "Front",
+ "target": "",
+ "basedOn": "",
+ "authorId": "76561199216268050",
+ "authorName": "myangell*舒米",
+ "frames": 1,
+ "width": 40,
+ "height": 56,
+ "modVersion": "0.2",
+ "created": "2026-10-14T16:35:51.615Z"
+}
