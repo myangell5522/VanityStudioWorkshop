@@ -6,7 +6,7 @@ compatibility_date = "2026-01-01"
 REPO = "myangell5522/VanityStudioWorkshop"
 BRANCH = "main"
 # "false": every upload becomes a pull request you review. "true": new items go live right away.
-AUTO_PUBLISH = "false"
+AUTO_PUBLISH = "true"
 
 # Optional: limit uploads to 10 per IP per hour. Create the namespace with
 #   npx wrangler kv namespace create RATE
