@@ -1,0 +1,21 @@
+name: Check submission
+
+# Runs on every pull request the relay opens, so a broken upload is obvious before merging.
+on:
+  pull_request:
+    paths:
+      - "items/**"
+      - "authors/**"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/build_index.py --check

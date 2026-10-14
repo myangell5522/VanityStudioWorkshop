@@ -1,0 +1,40 @@
+name: Build index
+
+# Every time something lands on main (a merged submission, a deletion, a manual fix),
+# rebuild index.json so the in-game Studio Workshop sees it.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "items/**"
+      - "authors/**"
+      - "scripts/build_index.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/build_index.py
+      - name: Commit index.json
+        run: |
+          if git diff --quiet -- index.json; then
+            echo "index.json unchanged"
+            exit 0
+          fi
+          git config user.name "vanity-studio-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "Rebuild index.json"
+          git push
