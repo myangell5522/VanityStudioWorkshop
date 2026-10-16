@@ -1,0 +1,16 @@
+{
+ "id": "b8cf9f6dcc7146d4b58086464c31f2d7",
+ "name": "Among us legs",
+ "description": "Among us",
+ "kind": "Wearable",
+ "slot": "Legs",
+ "target": "",
+ "basedOn": "",
+ "authorId": "76561199434640077",
+ "authorName": "Little RedYT",
+ "frames": 1,
+ "width": 40,
+ "height": 56,
+ "modVersion": "0.3",
+ "created": "2026-10-16T05:34:47.628Z"
+}
