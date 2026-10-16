@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-16T05:35:15+00:00",
- "count": 3,
+ "updated": "2026-10-16T05:35:42+00:00",
+ "count": 4,
  "items": [
+  {
+   "id": "a54ef2e130d14b8abe2b37a473eb73c2",
+   "name": "Among us visor",
+   "description": "among us",
+   "kind": "Wearable",
+   "slot": "Head",
+   "target": "",
+   "basedOn": "",
+   "authorId": "76561199434640077",
+   "authorName": "Little RedYT",
+   "path": "items/76561199434640077/a54ef2e130d14b8abe2b37a473eb73c2",
+   "created": "2026-10-16T05:35:31.688Z",
+   "frames": 1,
+   "width": 40,
+   "height": 56
+  },
   {
    "id": "8771b1e34f0c42af89766fac6d7d153c",
    "name": "Among us torso",
