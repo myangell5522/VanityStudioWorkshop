@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-16T05:34:59+00:00",
- "count": 2,
+ "updated": "2026-10-16T05:35:15+00:00",
+ "count": 3,
  "items": [
+  {
+   "id": "8771b1e34f0c42af89766fac6d7d153c",
+   "name": "Among us torso",
+   "description": "among us",
+   "kind": "Wearable",
+   "slot": "Body",
+   "target": "",
+   "basedOn": "",
+   "authorId": "76561199434640077",
+   "authorName": "Little RedYT",
+   "path": "items/76561199434640077/8771b1e34f0c42af89766fac6d7d153c",
+   "created": "2026-10-16T05:35:04.920Z",
+   "frames": 1,
+   "width": 40,
+   "height": 56
+  },
   {
    "id": "b8cf9f6dcc7146d4b58086464c31f2d7",
    "name": "Among us legs",
