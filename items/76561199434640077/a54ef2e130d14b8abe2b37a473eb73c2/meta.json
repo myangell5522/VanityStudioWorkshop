@@ -1,0 +1,16 @@
+{
+ "id": "a54ef2e130d14b8abe2b37a473eb73c2",
+ "name": "Among us visor",
+ "description": "among us",
+ "kind": "Wearable",
+ "slot": "Head",
+ "target": "",
+ "basedOn": "",
+ "authorId": "76561199434640077",
+ "authorName": "Little RedYT",
+ "frames": 1,
+ "width": 40,
+ "height": 56,
+ "modVersion": "0.3",
+ "created": "2026-10-16T05:35:31.688Z"
+}
