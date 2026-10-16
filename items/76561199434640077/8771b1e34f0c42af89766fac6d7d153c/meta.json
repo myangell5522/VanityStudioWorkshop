@@ -1,0 +1,16 @@
+{
+ "id": "8771b1e34f0c42af89766fac6d7d153c",
+ "name": "Among us torso",
+ "description": "among us",
+ "kind": "Wearable",
+ "slot": "Body",
+ "target": "",
+ "basedOn": "",
+ "authorId": "76561199434640077",
+ "authorName": "Little RedYT",
+ "frames": 1,
+ "width": 40,
+ "height": 56,
+ "modVersion": "0.3",
+ "created": "2026-10-16T05:35:04.920Z"
+}
