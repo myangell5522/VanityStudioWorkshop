@@ -1,0 +1,16 @@
+{
+ "id": "c2b98a3730f94184a0acf620f5e59a1f",
+ "name": "Warmer Goldfish",
+ "description": "its a goldfish with warmer colors! simple.",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/Goldfish",
+ "basedOn": "Goldfish",
+ "authorId": "76561199767390740",
+ "authorName": "mma1038",
+ "frames": 1,
+ "width": 38,
+ "height": 28,
+ "modVersion": "0.3.2",
+ "created": "2026-10-17T12:25:00.724Z"
+}
