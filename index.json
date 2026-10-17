@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-16T05:35:42+00:00",
- "count": 4,
+ "updated": "2026-10-17T10:33:51+00:00",
+ "count": 5,
  "items": [
+  {
+   "id": "0447c320308f4015ada85fab77ad5969",
+   "name": "Новое: Тело",
+   "description": "",
+   "kind": "Wearable",
+   "slot": "Head",
+   "target": "",
+   "basedOn": "Маска Nokilos",
+   "authorId": "76561198302659602",
+   "authorName": "km030878keb",
+   "path": "items/76561198302659602/0447c320308f4015ada85fab77ad5969",
+   "created": "2026-10-17T10:33:39.672Z",
+   "frames": 5,
+   "width": 40,
+   "height": 56
+  },
   {
    "id": "a54ef2e130d14b8abe2b37a473eb73c2",
    "name": "Among us visor",
