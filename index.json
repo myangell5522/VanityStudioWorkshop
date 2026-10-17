@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-17T10:33:51+00:00",
- "count": 5,
+ "updated": "2026-10-17T12:25:11+00:00",
+ "count": 6,
  "items": [
+  {
+   "id": "c2b98a3730f94184a0acf620f5e59a1f",
+   "name": "Warmer Goldfish",
+   "description": "its a goldfish with warmer colors! simple.",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/Goldfish",
+   "basedOn": "Goldfish",
+   "authorId": "76561199767390740",
+   "authorName": "mma1038",
+   "path": "items/76561199767390740/c2b98a3730f94184a0acf620f5e59a1f",
+   "created": "2026-10-17T12:25:00.724Z",
+   "frames": 1,
+   "width": 38,
+   "height": 28
+  },
   {
    "id": "0447c320308f4015ada85fab77ad5969",
    "name": "Новое: Тело",
