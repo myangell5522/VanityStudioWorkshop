@@ -1,0 +1,16 @@
+{
+ "id": "0447c320308f4015ada85fab77ad5969",
+ "name": "Новое: Тело",
+ "description": "",
+ "kind": "Wearable",
+ "slot": "Head",
+ "target": "",
+ "basedOn": "Маска Nokilos",
+ "authorId": "76561198302659602",
+ "authorName": "km030878keb",
+ "frames": 5,
+ "width": 40,
+ "height": 56,
+ "modVersion": "0.3.2",
+ "created": "2026-10-17T10:33:39.672Z"
+}
