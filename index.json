@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:04:31+00:00",
- "count": 9,
+ "updated": "2026-10-18T22:07:59+00:00",
+ "count": 10,
  "items": [
+  {
+   "id": "f2b940cb7ab942ce943f162679159a72",
+   "name": "1.4.5 Slime Staff",
+   "description": "the texture of a slime staff from 1.4.5",
+   "kind": "Item",
+   "slot": "",
+   "target": "Terraria/SlimeStaff",
+   "basedOn": "Slime Staff",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/f2b940cb7ab942ce943f162679159a72",
+   "created": "2026-10-18T22:07:47.495Z",
+   "frames": 1,
+   "width": 26,
+   "height": 34
+  },
   {
    "id": "c65a955c10954826b01b9e1bcf5273b0",
    "name": "Blue Glowstick",
