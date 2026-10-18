@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:23:28+00:00",
- "count": 17,
+ "updated": "2026-10-18T22:24:01+00:00",
+ "count": 18,
  "items": [
+  {
+   "id": "5f77eda6e931454db2b1da5606e0a29c",
+   "name": "Fargo King Slime",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/KingSlime",
+   "basedOn": "King Slime",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/5f77eda6e931454db2b1da5606e0a29c",
+   "created": "2026-10-18T22:23:52.002Z",
+   "frames": 1,
+   "width": 174,
+   "height": 120
+  },
   {
    "id": "9982362ff5824d2e864d5bde48c60b5b",
    "name": "Fargo Plantera",
