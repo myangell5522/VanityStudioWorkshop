@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:34:34+00:00",
- "count": 34,
+ "updated": "2026-10-18T22:34:55+00:00",
+ "count": 35,
  "items": [
+  {
+   "id": "70e0cee7bf8b40eea7b79464bdef3ba1",
+   "name": "The Hungry",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/TheHungryII",
+   "basedOn": "The Hungry",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/70e0cee7bf8b40eea7b79464bdef3ba1",
+   "created": "2026-10-18T22:34:46.114Z",
+   "frames": 1,
+   "width": 110,
+   "height": 50
+  },
   {
    "id": "20a8f0b5ea604973bea8ffd507846651",
    "name": "Probe",
