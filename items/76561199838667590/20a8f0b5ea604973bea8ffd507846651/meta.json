@@ -1,0 +1,16 @@
+{
+ "id": "20a8f0b5ea604973bea8ffd507846651",
+ "name": "Probe",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/Probe",
+ "basedOn": "Probe",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 32,
+ "height": 32,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:34:24.601Z"
+}
