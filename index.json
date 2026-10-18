@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-17T12:25:11+00:00",
- "count": 6,
+ "updated": "2026-10-18T02:03:22+00:00",
+ "count": 7,
  "items": [
+  {
+   "id": "5a945e9d854045e28bb43130e971f00d",
+   "name": "Iron Broadsword",
+   "description": "A resprite",
+   "kind": "Item",
+   "slot": "",
+   "target": "Terraria/IronBroadsword",
+   "basedOn": "Iron Broadsword",
+   "authorId": "76561198326876050",
+   "authorName": "Nyanko Daisensou",
+   "path": "items/76561198326876050/5a945e9d854045e28bb43130e971f00d",
+   "created": "2026-10-18T02:03:11.798Z",
+   "frames": 1,
+   "width": 36,
+   "height": 36
+  },
   {
    "id": "c2b98a3730f94184a0acf620f5e59a1f",
    "name": "Warmer Goldfish",
