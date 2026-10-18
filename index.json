@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:20:44+00:00",
- "count": 13,
+ "updated": "2026-10-18T22:21:16+00:00",
+ "count": 14,
  "items": [
+  {
+   "id": "53a2b4185e0a45759755f3a92c3d1bc7",
+   "name": "Fargo Cultist",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/CultistBoss",
+   "basedOn": "Lunatic Cultist",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/53a2b4185e0a45759755f3a92c3d1bc7",
+   "created": "2026-10-18T22:21:07.483Z",
+   "frames": 1,
+   "width": 46,
+   "height": 64
+  },
   {
    "id": "29137b4172754c97ad033a7647c704e4",
    "name": "Fargo EOC",
