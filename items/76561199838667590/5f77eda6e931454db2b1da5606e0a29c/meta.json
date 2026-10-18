@@ -1,0 +1,16 @@
+{
+ "id": "5f77eda6e931454db2b1da5606e0a29c",
+ "name": "Fargo King Slime",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/KingSlime",
+ "basedOn": "King Slime",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 174,
+ "height": 120,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:23:52.002Z"
+}
