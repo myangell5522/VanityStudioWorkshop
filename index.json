@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:25:59+00:00",
- "count": 21,
+ "updated": "2026-10-18T22:26:25+00:00",
+ "count": 22,
  "items": [
+  {
+   "id": "761bca76da0a464782beb2a9efdb5a1e",
+   "name": "Fargo Skeletron Hand",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/SkeletronHand",
+   "basedOn": "Skeletron",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/761bca76da0a464782beb2a9efdb5a1e",
+   "created": "2026-10-18T22:26:15.523Z",
+   "frames": 1,
+   "width": 56,
+   "height": 76
+  },
   {
    "id": "c94b3d4b09734e92aef9626c9f6d057f",
    "name": "Fargo Skeletron Head",
