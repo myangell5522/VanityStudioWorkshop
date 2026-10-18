@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:01:48+00:00",
- "count": 8,
+ "updated": "2026-10-18T22:04:31+00:00",
+ "count": 9,
  "items": [
+  {
+   "id": "c65a955c10954826b01b9e1bcf5273b0",
+   "name": "Blue Glowstick",
+   "description": "a Blue version of a glowstick made it a few secs",
+   "kind": "Item",
+   "slot": "",
+   "target": "Terraria/Glowstick",
+   "basedOn": "Glowstick",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/c65a955c10954826b01b9e1bcf5273b0",
+   "created": "2026-10-18T22:04:18.978Z",
+   "frames": 1,
+   "width": 16,
+   "height": 16
+  },
   {
    "id": "ea00c73834d64945bf54d389c4c7aeaf",
    "name": "Red Glowstick",
