@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:29:19+00:00",
- "count": 27,
+ "updated": "2026-10-18T22:30:22+00:00",
+ "count": 28,
  "items": [
+  {
+   "id": "a359c16255a847e7879669ee86aa8916",
+   "name": "Fargo Cultist Clone",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/CultistBossClone",
+   "basedOn": "Lunatic Cultist",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/a359c16255a847e7879669ee86aa8916",
+   "created": "2026-10-18T22:30:11.757Z",
+   "frames": 1,
+   "width": 46,
+   "height": 64
+  },
   {
    "id": "86635d4aecb648b98c6afeeee02b90ef",
    "name": "Fargo EOW Segment",
