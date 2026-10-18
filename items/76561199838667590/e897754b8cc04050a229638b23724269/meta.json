@@ -1,0 +1,16 @@
+{
+ "id": "e897754b8cc04050a229638b23724269",
+ "name": "Fargo EOL",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/HallowBoss",
+ "basedOn": "Empress of Light",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 166,
+ "height": 176,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:31:02.473Z"
+}
