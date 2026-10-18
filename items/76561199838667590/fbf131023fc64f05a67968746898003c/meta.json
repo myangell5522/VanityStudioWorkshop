@@ -1,0 +1,16 @@
+{
+ "id": "fbf131023fc64f05a67968746898003c",
+ "name": "Servant of Cthulhu (3)",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/ServantofCthulhu",
+ "basedOn": "Servant of Cthulhu",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 20,
+ "height": 32,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:33:56.982Z"
+}
