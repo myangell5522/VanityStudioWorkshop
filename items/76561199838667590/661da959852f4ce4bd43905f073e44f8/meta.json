@@ -1,0 +1,16 @@
+{
+ "id": "661da959852f4ce4bd43905f073e44f8",
+ "name": "Fargo WOF Eye",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/WallofFleshEye",
+ "basedOn": "Wall of Flesh",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 130,
+ "height": 106,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:22:13.457Z"
+}
