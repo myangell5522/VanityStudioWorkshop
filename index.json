@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:36:56+00:00",
- "count": 41,
+ "updated": "2026-10-18T22:37:07+00:00",
+ "count": 42,
  "items": [
+  {
+   "id": "4cc9bac63c76404f88ab17044e88d50b",
+   "name": "Prime Laser",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/PrimeLaser",
+   "basedOn": "Prime Laser",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/4cc9bac63c76404f88ab17044e88d50b",
+   "created": "2026-10-18T22:36:57.901Z",
+   "frames": 1,
+   "width": 40,
+   "height": 62
+  },
   {
    "id": "261cfb3a6df1401ba01745ff9433626b",
    "name": "Golem Fist (2)",
