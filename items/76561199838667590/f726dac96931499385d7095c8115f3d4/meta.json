@@ -1,0 +1,16 @@
+{
+ "id": "f726dac96931499385d7095c8115f3d4",
+ "name": "Fargo EOW Head",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/EaterofWorldsHead",
+ "basedOn": "Eater of Worlds",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 46,
+ "height": 90,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:28:13.314Z"
+}
