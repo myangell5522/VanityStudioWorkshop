@@ -1,0 +1,16 @@
+{
+ "id": "f9006ffacbef4846961ea4ac4367fe6a",
+ "name": "Prime Saw",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/PrimeSaw",
+ "basedOn": "Prime Saw",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 38,
+ "height": 78,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:37:26.648Z"
+}
