@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T02:03:22+00:00",
- "count": 7,
+ "updated": "2026-10-18T22:01:48+00:00",
+ "count": 8,
  "items": [
+  {
+   "id": "ea00c73834d64945bf54d389c4c7aeaf",
+   "name": "Red Glowstick",
+   "description": "a Red version of a glowstick made in 20 secs",
+   "kind": "Item",
+   "slot": "",
+   "target": "Terraria/Glowstick",
+   "basedOn": "Glowstick",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/ea00c73834d64945bf54d389c4c7aeaf",
+   "created": "2026-10-18T22:01:38.513Z",
+   "frames": 1,
+   "width": 16,
+   "height": 16
+  },
   {
    "id": "5a945e9d854045e28bb43130e971f00d",
    "name": "Iron Broadsword",
