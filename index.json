@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:31:47+00:00",
- "count": 30,
+ "updated": "2026-10-18T22:32:16+00:00",
+ "count": 31,
  "items": [
+  {
+   "id": "231f23bd604c470f998d0bc396ce75fc",
+   "name": "Fargo Destroyer Segment",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/TheDestroyerBody",
+   "basedOn": "The Destroyer",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/231f23bd604c470f998d0bc396ce75fc",
+   "created": "2026-10-18T22:32:07.320Z",
+   "frames": 1,
+   "width": 50,
+   "height": 104
+  },
   {
    "id": "ec3cf1d1b51d48daa8260f5c2747a39e",
    "name": "Fargo Destroyer Head",
