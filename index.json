@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:30:22+00:00",
- "count": 28,
+ "updated": "2026-10-18T22:31:13+00:00",
+ "count": 29,
  "items": [
+  {
+   "id": "e897754b8cc04050a229638b23724269",
+   "name": "Fargo EOL",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/HallowBoss",
+   "basedOn": "Empress of Light",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/e897754b8cc04050a229638b23724269",
+   "created": "2026-10-18T22:31:02.473Z",
+   "frames": 1,
+   "width": 166,
+   "height": 176
+  },
   {
    "id": "a359c16255a847e7879669ee86aa8916",
    "name": "Fargo Cultist Clone",
