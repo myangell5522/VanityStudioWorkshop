@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:25:12+00:00",
- "count": 20,
+ "updated": "2026-10-18T22:25:59+00:00",
+ "count": 21,
  "items": [
+  {
+   "id": "c94b3d4b09734e92aef9626c9f6d057f",
+   "name": "Fargo Skeletron Head",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/SkeletronHead",
+   "basedOn": "Skeletron",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/c94b3d4b09734e92aef9626c9f6d057f",
+   "created": "2026-10-18T22:25:48.145Z",
+   "frames": 1,
+   "width": 80,
+   "height": 102
+  },
   {
    "id": "33ce22d179414cd294495676bbc4aa48",
    "name": "Fargo Spaz (phase 2 only)",
