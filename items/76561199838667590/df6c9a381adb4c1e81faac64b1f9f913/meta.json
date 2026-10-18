@@ -1,0 +1,16 @@
+{
+ "id": "df6c9a381adb4c1e81faac64b1f9f913",
+ "name": "Fargo Retinazer (phase 2 only)",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/Retinazer",
+ "basedOn": "Retinazer",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 110,
+ "height": 200,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:24:30.562Z"
+}
