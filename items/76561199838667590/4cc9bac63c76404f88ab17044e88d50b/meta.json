@@ -1,0 +1,16 @@
+{
+ "id": "4cc9bac63c76404f88ab17044e88d50b",
+ "name": "Prime Laser",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/PrimeLaser",
+ "basedOn": "Prime Laser",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 40,
+ "height": 62,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:36:57.901Z"
+}
