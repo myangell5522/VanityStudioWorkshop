@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:36:43+00:00",
- "count": 40,
+ "updated": "2026-10-18T22:36:56+00:00",
+ "count": 41,
  "items": [
+  {
+   "id": "261cfb3a6df1401ba01745ff9433626b",
+   "name": "Golem Fist (2)",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/GolemFistRight",
+   "basedOn": "Golem Fist",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/261cfb3a6df1401ba01745ff9433626b",
+   "created": "2026-10-18T22:36:45.569Z",
+   "frames": 1,
+   "width": 50,
+   "height": 40
+  },
   {
    "id": "966887d2f6664ae4b5aadda50e50b53c",
    "name": "Golem Fist",
