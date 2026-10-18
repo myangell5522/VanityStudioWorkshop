@@ -1,0 +1,16 @@
+{
+ "id": "a359c16255a847e7879669ee86aa8916",
+ "name": "Fargo Cultist Clone",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/CultistBossClone",
+ "basedOn": "Lunatic Cultist",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 46,
+ "height": 64,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:30:11.757Z"
+}
