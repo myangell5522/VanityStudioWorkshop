@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:35:59+00:00",
- "count": 38,
+ "updated": "2026-10-18T22:36:31+00:00",
+ "count": 39,
  "items": [
+  {
+   "id": "6013308960b94da5bf5633cf80a7ce90",
+   "name": "Golem Head",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/GolemHead",
+   "basedOn": "Golem Head",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/6013308960b94da5bf5633cf80a7ce90",
+   "created": "2026-10-18T22:36:21.004Z",
+   "frames": 1,
+   "width": 112,
+   "height": 118
+  },
   {
    "id": "361d8c1b0e6f4a829e038b86fb3d5c96",
    "name": "Leech (3)",
