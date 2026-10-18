@@ -1,0 +1,16 @@
+{
+ "id": "462c731566274531957598250711b480",
+ "name": "1.4.5 Lihzahrd Crawler",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/LihzahrdCrawler",
+ "basedOn": "Lihzahrd",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 66,
+ "height": 50,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:14:01.821Z"
+}
