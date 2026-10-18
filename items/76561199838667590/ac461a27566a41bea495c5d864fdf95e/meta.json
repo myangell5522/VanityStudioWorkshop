@@ -1,0 +1,16 @@
+{
+ "id": "ac461a27566a41bea495c5d864fdf95e",
+ "name": "Prime Cannon",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/PrimeCannon",
+ "basedOn": "Prime Cannon",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 38,
+ "height": 76,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:37:49.476Z"
+}
