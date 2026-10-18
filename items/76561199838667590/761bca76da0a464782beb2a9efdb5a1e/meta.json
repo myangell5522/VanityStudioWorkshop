@@ -1,0 +1,16 @@
+{
+ "id": "761bca76da0a464782beb2a9efdb5a1e",
+ "name": "Fargo Skeletron Hand",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/SkeletronHand",
+ "basedOn": "Skeletron",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 56,
+ "height": 76,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:26:15.523Z"
+}
