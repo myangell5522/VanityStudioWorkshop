@@ -1,0 +1,16 @@
+{
+ "id": "4ad2ad142f1a41b89a1bdb505a47b5a1",
+ "name": "Fargo Destroyer Tail",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/TheDestroyerTail",
+ "basedOn": "The Destroyer",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 50,
+ "height": 102,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:32:35.316Z"
+}
