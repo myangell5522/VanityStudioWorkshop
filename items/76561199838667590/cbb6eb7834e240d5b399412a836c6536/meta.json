@@ -1,0 +1,16 @@
+{
+ "id": "cbb6eb7834e240d5b399412a836c6536",
+ "name": "Fargo WOF Mouth",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/WallofFlesh",
+ "basedOn": "Wall of Flesh",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 142,
+ "height": 106,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:21:37.457Z"
+}
