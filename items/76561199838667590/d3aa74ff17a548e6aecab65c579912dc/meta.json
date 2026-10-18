@@ -1,0 +1,16 @@
+{
+ "id": "d3aa74ff17a548e6aecab65c579912dc",
+ "name": "Fargo Queen Bee",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/QueenBee",
+ "basedOn": "Queen Bee",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 172,
+ "height": 152,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:26:48.530Z"
+}
