@@ -1,0 +1,16 @@
+{
+ "id": "231f23bd604c470f998d0bc396ce75fc",
+ "name": "Fargo Destroyer Segment",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/TheDestroyerBody",
+ "basedOn": "The Destroyer",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 50,
+ "height": 104,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:32:07.320Z"
+}
