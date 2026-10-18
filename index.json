@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:37:39+00:00",
- "count": 44,
+ "updated": "2026-10-18T22:38:00+00:00",
+ "count": 45,
  "items": [
+  {
+   "id": "ac461a27566a41bea495c5d864fdf95e",
+   "name": "Prime Cannon",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/PrimeCannon",
+   "basedOn": "Prime Cannon",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/ac461a27566a41bea495c5d864fdf95e",
+   "created": "2026-10-18T22:37:49.476Z",
+   "frames": 1,
+   "width": 38,
+   "height": 76
+  },
   {
    "id": "f9006ffacbef4846961ea4ac4367fe6a",
    "name": "Prime Saw",
