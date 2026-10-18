@@ -1,0 +1,16 @@
+{
+ "id": "966887d2f6664ae4b5aadda50e50b53c",
+ "name": "Golem Fist",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/GolemFistLeft",
+ "basedOn": "Golem Fist",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 50,
+ "height": 40,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:36:32.685Z"
+}
