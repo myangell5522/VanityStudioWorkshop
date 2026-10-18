@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:26:59+00:00",
- "count": 23,
+ "updated": "2026-10-18T22:28:00+00:00",
+ "count": 24,
  "items": [
+  {
+   "id": "a558defc5ca34e778e2dc5a636b2c695",
+   "name": "Fargo BOC",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/BrainofCthulhu",
+   "basedOn": "Brain of Cthulhu",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/a558defc5ca34e778e2dc5a636b2c695",
+   "created": "2026-10-18T22:27:49.162Z",
+   "frames": 1,
+   "width": 200,
+   "height": 182
+  },
   {
    "id": "d3aa74ff17a548e6aecab65c579912dc",
    "name": "Fargo Queen Bee",
