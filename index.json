@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:28:24+00:00",
- "count": 25,
+ "updated": "2026-10-18T22:28:52+00:00",
+ "count": 26,
  "items": [
+  {
+   "id": "34944f20ce084b84b90dfc2d3127611f",
+   "name": "Fargo EOW Tail",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/EaterofWorldsTail",
+   "basedOn": "Eater of Worlds",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/34944f20ce084b84b90dfc2d3127611f",
+   "created": "2026-10-18T22:28:43.505Z",
+   "frames": 1,
+   "width": 46,
+   "height": 90
+  },
   {
    "id": "f726dac96931499385d7095c8115f3d4",
    "name": "Fargo EOW Head",
