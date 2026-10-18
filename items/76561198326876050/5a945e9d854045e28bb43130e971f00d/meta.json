@@ -1,0 +1,16 @@
+{
+ "id": "5a945e9d854045e28bb43130e971f00d",
+ "name": "Iron Broadsword",
+ "description": "A resprite",
+ "kind": "Item",
+ "slot": "",
+ "target": "Terraria/IronBroadsword",
+ "basedOn": "Iron Broadsword",
+ "authorId": "76561198326876050",
+ "authorName": "Nyanko Daisensou",
+ "frames": 1,
+ "width": 36,
+ "height": 36,
+ "modVersion": "0.3.2",
+ "created": "2026-10-18T02:03:11.798Z"
+}
