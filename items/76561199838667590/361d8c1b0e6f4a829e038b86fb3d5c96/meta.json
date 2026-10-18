@@ -1,0 +1,16 @@
+{
+ "id": "361d8c1b0e6f4a829e038b86fb3d5c96",
+ "name": "Leech (3)",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/LeechTail",
+ "basedOn": "Leech",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 18,
+ "height": 30,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:35:49.465Z"
+}
