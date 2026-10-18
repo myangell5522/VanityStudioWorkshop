@@ -1,0 +1,16 @@
+{
+ "id": "e8d0870ca6744a36aedcbac8b2c4392d",
+ "name": "Leech (2)",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/LeechBody",
+ "basedOn": "Leech",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 18,
+ "height": 30,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:35:16.544Z"
+}
