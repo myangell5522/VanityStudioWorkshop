@@ -1,0 +1,16 @@
+{
+ "id": "86635d4aecb648b98c6afeeee02b90ef",
+ "name": "Fargo EOW Segment",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/EaterofWorldsBody",
+ "basedOn": "Eater of Worlds",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 46,
+ "height": 90,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:29:10.523Z"
+}
