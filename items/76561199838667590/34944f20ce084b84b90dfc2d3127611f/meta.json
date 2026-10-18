@@ -1,0 +1,16 @@
+{
+ "id": "34944f20ce084b84b90dfc2d3127611f",
+ "name": "Fargo EOW Tail",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/EaterofWorldsTail",
+ "basedOn": "Eater of Worlds",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 46,
+ "height": 90,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:28:43.505Z"
+}
