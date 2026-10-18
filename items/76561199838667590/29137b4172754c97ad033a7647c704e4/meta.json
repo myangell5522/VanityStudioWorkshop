@@ -1,0 +1,16 @@
+{
+ "id": "29137b4172754c97ad033a7647c704e4",
+ "name": "Fargo EOC",
+ "description": "",
+ "kind": "NPC",
+ "slot": "",
+ "target": "Terraria/EyeofCthulhu",
+ "basedOn": "Eye of Cthulhu",
+ "authorId": "76561199838667590",
+ "authorName": "sydneyrae102",
+ "frames": 1,
+ "width": 110,
+ "height": 166,
+ "modVersion": "0.3.4",
+ "created": "2026-10-18T22:20:34.398Z"
+}
