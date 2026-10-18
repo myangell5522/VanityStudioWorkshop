@@ -1,8 +1,24 @@
 {
  "version": 1,
- "updated": "2026-10-18T22:22:22+00:00",
- "count": 16,
+ "updated": "2026-10-18T22:23:28+00:00",
+ "count": 17,
  "items": [
+  {
+   "id": "9982362ff5824d2e864d5bde48c60b5b",
+   "name": "Fargo Plantera",
+   "description": "",
+   "kind": "NPC",
+   "slot": "",
+   "target": "Terraria/Plantera",
+   "basedOn": "Plantera",
+   "authorId": "76561199838667590",
+   "authorName": "sydneyrae102",
+   "path": "items/76561199838667590/9982362ff5824d2e864d5bde48c60b5b",
+   "created": "2026-10-18T22:23:18.135Z",
+   "frames": 1,
+   "width": 116,
+   "height": 154
+  },
   {
    "id": "661da959852f4ce4bd43905f073e44f8",
    "name": "Fargo WOF Eye",
